@@ -1,0 +1,12 @@
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\RxSimpleSample.exe
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\RxSimpleSample.pdb
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.Core.dll
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.Interfaces.dll
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.Linq.dll
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.Core.xml
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.Interfaces.xml
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.Linq.xml
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\obj\Debug\RxSimpleSample.exe
+D:\Demo\RxSimpleSample\SimpleSample\RxSimpleSample\RxSimpleSample\obj\Debug\RxSimpleSample.pdb
